@@ -18,7 +18,7 @@ An automobile parts manufacturing company has collected data on transactions for
 
 ## Project Steps 📋
 
-1. **Data Exploration** 🧐
+1. **Data Exploration** 🧐 :smile: 
    - Understand the dataset and study the data dictionary.
 
 2. **RFM Analysis** 📊
